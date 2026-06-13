@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Lag_SmpGgs.aternos.me",
-    "port": 30430,
+    "ip": "lagsmpggs.aternos.me",
+    "port": 48501,
     "version": "",
     "try-creative": false
   },
@@ -38,7 +38,7 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 1500,
     "max-reconnect-delay": 120000
   },
   "movement": {
