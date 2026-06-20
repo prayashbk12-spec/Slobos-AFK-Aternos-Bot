@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Otami002",
+    "username": "Bot00741",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "lagsmpggs.aternos.me",
-    "port": 48501,
+    "ip": "GOKU_SMP-S4.aternos.me",
+    "port": 16714,
     "version": "",
     "try-creative": false
   },
